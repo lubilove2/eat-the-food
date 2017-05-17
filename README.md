@@ -1,15 +1,10 @@
-#Week 14 Assignment
-##Eat-Da-Burger (Pacman Style)
+![20140623-burger-magazine-cover](https://cloud.githubusercontent.com/assets/23545714/26179683/1790f8f8-3b33-11e7-990e-60cc70b11832.jpg)
+This App
+* Designed with ORM, MySQL, Node, Express, handlebars using the MVC design pattern
+* Used Handlebars to generate HTML
+* Used Node to connect to MySQL database and Express to handle routing
 
-![alt tag](https://github.com/winniemlau/Eat-Da-Burger/blob/master/public/img/screenshot.jpg)
-
-###Objective
-
-* Create a burger logger with a homemade ORM (yum!), MySQL, Node, Express, handlebars using the MVC design pattern
-* Use Handlebars to generate HTML
-* Use Node to connect to your MySQL database and Express to handle routing
-
-###Technologies
+###Technologies Used
 
 * HTML
 * CSS
